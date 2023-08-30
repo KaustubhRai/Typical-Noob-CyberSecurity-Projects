@@ -1,0 +1,7 @@
+Overview: 
+    Analyze password strength based on criteria such as length, presence of symbols, numbers, upper/lowercase letters, etc.
+
+Steps:
+    Create rules for password strength.
+    Use regex or string manipulation techniques to check passwords against these rules.
+    Provide feedback to users about password strength and suggestions for improvement.

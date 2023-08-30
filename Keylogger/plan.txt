@@ -1,0 +1,7 @@
+Overview: 
+    Log keystrokes on a system. (Note: Only use ethically and with permission.)
+
+Steps:
+    Decide on the platform (Windows, Linux, etc.).
+    Use appropriate system-level APIs or libraries to capture keystrokes.
+    Save and organize the logged data.

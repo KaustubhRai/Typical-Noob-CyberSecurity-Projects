@@ -1,0 +1,7 @@
+Overview: 
+    Monitor system activities and detect malicious or unauthorized behavior.
+
+Steps:
+    Define rules or heuristics for detecting malicious behavior.
+    Monitor system logs, file changes, network activity, etc.
+    Alert users or system admins of potential intrusions.

@@ -1,0 +1,7 @@
+Overview: 
+    Implement popular encryption algorithms like AES, DES, RSA, etc. to encrypt and decrypt messages.
+
+Steps:
+    Choose a programming language (e.g., Python).
+    Use libraries or frameworks that support cryptographic operations.
+    Build a simple user interface to input, encrypt, decrypt, and display messages.

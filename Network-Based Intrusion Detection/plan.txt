@@ -1,0 +1,7 @@
+Overview: 
+    Monitor network traffic for suspicious patterns or anomalies.
+
+Steps:
+    Capture and analyze network traffic in real-time.
+    Implement machine learning or rule-based techniques to detect malicious patterns.
+    Provide dashboards or alerts for detected threats.

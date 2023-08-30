@@ -1,0 +1,7 @@
+Overview: 
+    Analyze traffic patterns, bandwidth usage, source/destination, etc.
+
+Steps:
+    Capture network traffic using tools/libraries.
+    Analyze data to identify patterns, possible threats, or anomalies.
+    Visualize the analyzed data for better understanding.

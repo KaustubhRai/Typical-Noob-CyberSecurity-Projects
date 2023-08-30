@@ -1,0 +1,7 @@
+Overview: 
+    Capture and analyze network packets.
+
+Steps:
+    Use libraries like pcap (Python) or tools like Wireshark.
+    Capture network packets and extract important information.
+    Provide a UI or CLI interface for users to view and analyze the captured data.

@@ -5,3 +5,16 @@ Steps:
     Choose a programming language (e.g., Python).
     Use libraries or frameworks that support cryptographic operations.
     Build a simple user interface to input, encrypt, decrypt, and display messages.
+
+Starting with caesar cypher, will make encrypt/decrypt commands for a cli thing then move onto making it for web
+
+all the algorithms we will tackle:
+    caesar - done
+    Substitution Cipher
+    Vigenère Cipher
+    Transposition Cipher
+    DES (Data Encryption Standard) 
+    AES (Advanced Encryption Standard) 
+    RSA (Rivest–Shamir–Adleman)
+    Diffie-Hellman Key Exchange
+    Elliptic Curve Cryptography (ECC)

@@ -10,8 +10,8 @@ Starting with caesar cypher, will make encrypt/decrypt commands for a cli thing 
 
 all the algorithms we will tackle:
     caesar - done
-    Substitution Cipher
-    Vigenère Cipher
+    Substitution Cipher - done
+    Vigenère Cipher - done
     Transposition Cipher
     DES (Data Encryption Standard) 
     AES (Advanced Encryption Standard) 

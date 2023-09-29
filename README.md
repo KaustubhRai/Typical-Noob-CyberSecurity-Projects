@@ -18,3 +18,7 @@ starting with projects in this manner, all projects are just a rough interpretat
 7] Host-Based Intrusion Detection (Advanced)
 
 8] Network-Based Intrusion Detection (Advanced-Master)
+
+
+# How to run
+run ```python main.py```

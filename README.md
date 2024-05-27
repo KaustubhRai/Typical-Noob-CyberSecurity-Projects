@@ -1,4 +1,8 @@
 # Typical Noob CyberSecurity Projects
+
+## [abandoned project for now, will complete all the stuff inside when free]
+
+
 Going to be a list of side cybersecurity projects where i lazily make beginner projects.
 
 starting with projects in this manner, all projects are just a rough interpretation not the final polished version. just playing around and learning. 
